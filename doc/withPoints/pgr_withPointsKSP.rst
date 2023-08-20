@@ -94,7 +94,7 @@ One to One
 * No details are given about distance of other points of the query.
 * No heap paths are returned.
 
-.. literalinclude:: doc-pgr_doc-pgr_withPointsKSP.queries
+.. literalinclude:: doc-pgr_withPointsKSP.queries
    :start-after: --q1
    :end-before: --q2
 
